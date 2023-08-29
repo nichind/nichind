@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me ✨
+
+17 y.o. Python developer & Designer born in Russia. Currently studying HTML, CSS & C# (Unity). I speak English & Russian. Studying Japanese. ;-;
 
 <!--
 **nichind/nichind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
