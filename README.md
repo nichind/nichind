@@ -5,7 +5,7 @@
 [![AI](https://github-readme-stats.vercel.app/api/pin/?username=nichind&repo=Telegram-ChatGPT-Bot)](https://github.com/nichind/Telegram-ChatGPT-Bot)
 [![ai.AI](https://github-readme-stats.vercel.app/api/pin/?username=nichind&repo=StealMoji)](https://github.com/nichind/StealMoji)
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow me ^^"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=brightgreen" alt="watching_count" />
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nichind?color=236ad3&style=for-the-badge&logo=github&label=Follow me ^^"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=brightgreen" alt="watching_count" />
 
 <!--
 **nichind/nichind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
