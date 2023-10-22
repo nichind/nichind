@@ -29,7 +29,9 @@
 		</td>
 	</tr>
 </table>
-  
+
+<img src="https://komarev.com/ghpvc/?username=nichind&color=brightgreen" alt="watching_count" />
+
   <!--
 **nichind/nichind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
