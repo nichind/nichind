@@ -4,6 +4,8 @@
 
 ### Discord
 
+[![Discord](https://img.shields.io/discord/992082814524731443?color=3f48cc&label=My+Discord+server&logo=discord&logoColor=white)](https://discord.gg/kvsbKtPYwa)
+
 <div style="display: flex; flex-direction: row;">
   <a align="center" href="https://discord.com/users/301035790891352076">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/301035790891352076?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true"
