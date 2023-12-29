@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=nichind&color=brightgreen" alt="watching_count" />
+![status](https://api.statusbadges.me/badge/status/301035790891352076)  <img src="https://komarev.com/ghpvc/?username=nichind&color=brightgreen" alt="watching_count" />
 
 ### About me ✨
 
@@ -15,7 +15,7 @@
 </div>  
 
   
-  ![status](https://api.statusbadges.me/badge/status/301035790891352076) ![playing](https://api.statusbadges.me/badge/playing/301035790891352076) 
+  ![playing](https://api.statusbadges.me/badge/playing/301035790891352076) 
   ![vscode](https://api.statusbadges.me/badge/vscode/301035790891352076) ![intellij](https://api.statusbadges.me/badge/intellij/301035790891352076)
 
 
