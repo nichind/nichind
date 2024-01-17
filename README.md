@@ -80,9 +80,9 @@
 <details open>
 <summary>My last projects</summary>
 	<br><a>My Portfolio: <a href="https://t.me/nichindpf">https://t.me/nichindpf</a></a><br><br>
-	<a href="https://youtube.nichind.dev"><img src="https://github.com/nichind/nichind/blob/main/images/Frame%2012-portfolio.png?raw=true"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="https://t.me/chimeragptrobot"><img src="https://github.com/nichind/nichind/blob/main/images/Frame%2017-portfolio.png?raw=true"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="https://github.com/nichind"><img src="https://github.com/nichind/nichind/blob/main/images/Frame%2018-portfolio.png?raw=true"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://youtube.nichind.dev"><img src="https://github.com/nichind/nichind/blob/main/images/Frame%2012-portfolio.png?raw=true" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://t.me/chimeragptrobot"><img src="https://github.com/nichind/nichind/blob/main/images/Frame%2017-portfolio.png?raw=true" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://github.com/nichind"><img src="https://github.com/nichind/nichind/blob/main/images/Frame%2018-portfolio.png?raw=true" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 </details>
 </div>
 
