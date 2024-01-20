@@ -69,7 +69,7 @@
 - [ ] Learn to draw anime
 - [ ] Get a "real" job (?)
 - [ ] Learn Japanese
-- [ ] Learbn Korean
+- [ ] Learn Korean
 </div>
 </details>
 </div>
