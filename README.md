@@ -4,7 +4,7 @@
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /><br>
 	<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-yae-miko/sticker_1.png?be529a633c95ff7c5e1c385f183f6ab2&d=200x200" width="280" height="280"/>
 	<br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/6c5bc7a3b392c248d786553082ac2ca382aa1b0a/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
+	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
 	<br><br>
  
 	17 y.o. fullstack developer & designer born in Russia.
@@ -17,7 +17,7 @@
 <div align="center" class="skills" style="display: flex; flex-flow: column wrap">
 	<details open>
 	<summary>My skills</summary><br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/ad29438abffc2895b5a3961a9b1b90f9519c8c94/assets/img/skills.svg"/><br><br>
+	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/><br><br>
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" width="50"/><a>&nbsp;</a> 
@@ -44,7 +44,7 @@
 <div align="center" class="contacts" style="display: flex; flex-flow: column wrap;">
 	<details open>
 	<summary>My contacts</summary><br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/51413b1a6bcf6fbbfd3444b696a08ddc2aeb0941/assets/img/contacts.svg"/>
+	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/>
 	<br><br>
  	<a href="https://discord.gg/nichind"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
   	<a href="https://t.me/nichind"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="50"/></a>
