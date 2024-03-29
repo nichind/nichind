@@ -14,7 +14,7 @@
 
 Check out my embed player! https://embedplayer.nichind.dev/docs
 
-<img src="https://embedplayer.nichind.dev/EmbedPlayer?username=nichind"/>
+<img src="https://embedplayer.nichind.dev/EmbedPlayer?username=root"/>
 
 ----
 
