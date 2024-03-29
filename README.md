@@ -12,6 +12,10 @@
   	Freely speaking Russian & English.
 </div>
 
+Check out my embed player! https://embedplayer.nichind.dev/docs
+
+<img src="https://embedplayer.nichind.dev/EmbedPlayer?username=nichind"/>
+
 ----
 
 <div align="center" class="skills" style="display: flex; flex-flow: column wrap">
