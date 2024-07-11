@@ -65,7 +65,7 @@ Check out my embed player! https://embedplayer.nichind.dev/docs
 <summary>My plans</summary><br>
 <div style="flex-direction: column; justify-content: center; align-items: flex-start;"> 
 	
-- [ ] Ace exams
+- [x] Ace exams *kinda*
 - [ ] Get 100'000$
 - [ ] Move to ???
 - [ ] Publish game to Steam
