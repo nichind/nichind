@@ -80,9 +80,9 @@
 <details open>
 <summary>My last projects</summary>
 	<br><a>My Portfolio: <a href="https://t.me/nichindpf">https://t.me/nichindpf</a></a><br><br>
-	<a href="https://youtube.nichind.dev"><img src="/assets/img/portfolio1.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<a href="https://t.me/chimeragptrobot"><img src="/assets/img/portfolio2.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="https://github.com/nichind"><img src="/assets/img/portfolio3.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://download.nichind.dev"><img src="/assets/img/portfolio1.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	<a href="https://t.me/remove_background_free_bot"><img src="/assets/img/portfolio2.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://t.me/chimeragptrobot"><img src="/assets/img/portfolio3.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 </details>
 </div>
 
