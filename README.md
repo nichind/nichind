@@ -8,13 +8,9 @@
 	<br><br>
  
 	18 y.o. fullstack developer & designer born in Russia.
- 	Fully self-taught, currently studying JS.
-  	Freely speaking Russian & English.
+ 	Fully self-taught, 7 years experience.
+  	Fluent in russian and english.
 </div>
-
-Check out my embed player! https://embedplayer.nichind.dev/docs
-
-<img src="https://embedplayer.nichind.dev/embedPlayer?username=nich"/>
 
 ----
 
@@ -84,9 +80,9 @@ Check out my embed player! https://embedplayer.nichind.dev/docs
 <details open>
 <summary>My last projects</summary>
 	<br><a>My Portfolio: <a href="https://t.me/nichindpf">https://t.me/nichindpf</a></a><br><br>
-	<a href="https://youtube.nichind.dev"><img src="https://github.com/nichind/nichind/blob/main/assets/img/Frame%2012-portfolio.png?raw=true" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="https://t.me/chimeragptrobot"><img src="https://github.com/nichind/nichind/blob/main/assets/img/Frame%2017-portfolio.png?raw=true" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="https://github.com/nichind"><img src="https://github.com/nichind/nichind/blob/main/assets/img/Frame%2018-portfolio.png?raw=true" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://youtube.nichind.dev"><img src="/assets/img/portfolio1.png" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://t.me/chimeragptrobot"><img src="/assets/img/portfolio2.png" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://github.com/nichind"><img src="/assets/img/portfolio3.png" width="220"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 </details>
 </div>
 
