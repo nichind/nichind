@@ -1,7 +1,7 @@
 <!-- HEY! You are free to use this layout, and i would be wery happy if you keep "readme layout made by https://github.com/nichind" in it ^_^ -->
 
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
-	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /><br>
+	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /><a href="https://wakatime.com/@018b587d-9291-4cc6-8009-9fe5da9376c0"><img src="https://wakatime.com/badge/user/018b587d-9291-4cc6-8009-9fe5da9376c0.svg" alt="Total time coded since Oct 22 2023" /></a><br>
 <!-- 	<img src="/assets/img/emoji.png" width="280" height="280"/> -->
 	<br>
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
