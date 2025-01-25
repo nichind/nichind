@@ -46,7 +46,7 @@
 	<summary>My contacts</summary><br>
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/>
 	<br><br>
- 	<a href="https://discord.gg/nichind"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
+ 	<a href="https://discord.gg/GnDz3RYq9y"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
   	<a href="https://t.me/nichind"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="50"/></a>
    	<br><br>or...<br><br>
     	<a>✉️ Email: <a href="mailto://contact@nichind.dev">contact@nichind.dev</a></a><br>
