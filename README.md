@@ -60,7 +60,7 @@
 <details>
 <summary>My plans</summary><br>
 <div style="flex-direction: column; justify-content: center; align-items: flex-start;"> 
-	
+
 - [x] Ace exams *kinda*
 - [ ] Get 100'000$
 - [ ] Move to ???
@@ -70,6 +70,7 @@
 - [ ] Get a "real" job (?)
 - [ ] Learn Japanese
 - [ ] Learn Korean
+  
 </div>
 </details>
 </div>
