@@ -7,7 +7,7 @@
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
 	<br><br>
  
-	18 y.o. fullstack developer & designer born in Russia.
+	19 y.o. fullstack developer & designer born in Russia.
  	Fully self-taught, 7 years experience.
   	Fluent in russian and english.
 </div>
