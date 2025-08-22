@@ -81,9 +81,8 @@
 <details open>
 <summary>My last projects</summary>
 	<br><a>My Portfolio: <a href="https://t.me/nichindpf">https://t.me/nichindpf</a></a><br><br>
-	<a href="https://download.nichind.dev"><img src="/assets/img/portfolio1.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<a href="https://t.me/remove_background_free_bot"><img src="/assets/img/portfolio2.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-	<a href="https://t.me/chimeragptrobot"><img src="/assets/img/portfolio3.png" width="600"/></a><a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+	<a href="https://pypistats.org/packages/v2ray2proxy"><img width="700" alt="image" src="https://github.com/user-attachments/assets/7326aedd-9dc1-4b88-8ba6-ae5640f2e6a9" /></a>
+	<a href="https://github.com/nichind/pybalt"><img width="700" alt="image" src="https://github.com/user-attachments/assets/1539b12e-c58b-48ca-9d41-08893de3370f" /></a>
 </details>
 </div>
 
