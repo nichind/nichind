@@ -1,129 +1,36 @@
-<!-- HEY! You are free to use this layout, and i would be wery happy if you keep "readme layout made by https://github.com/nichind" in it ^_^ -->
+<img align="left" height="600" src="https://nichind.dev/assets/img/home-side.webp">
 
-<div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
-	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /> <a href="https://wakatime.com/@018b587d-9291-4cc6-8009-9fe5da9376c0"><img src="https://wakatime.com/badge/user/018b587d-9291-4cc6-8009-9fe5da9376c0.svg" alt="Total time coded since Oct 22 2023" /></a><br>
-<!-- 	<img src="/assets/img/emoji.png" width="280" height="280"/> -->
-	<br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/Hi%2C%20my%20name%20is%20nichind.svg"/>
-	<br><br>
- 
-	19 y.o. fullstack developer & designer born in Russia.
- 	Fully self-taught, 7 years experience.
-  	Fluent in russian and english.
+
+<img align="left" height="270" src="https://nichind.dev/assets/img/gridprev.webp" href="https://nichind.dev">
+
+**← [nichind.dev](https://nichind.dev)**
+
+I code and design, sometimes it even works<br>
+Started my coding journey at 11 years old<br>
+Fully self-taught, coding daily since 2019<br>
+Native russian, fluent english, know some german and learning japanese<br>
+Currently Computer Science (Program Engineering) student @ [MAI](https://mai.ru)
+
+<div align="left" class="head-me" style="display: flex; flex-flow: column wrap;">
+	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/>
+	<img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" />
+	<a href="https://wakatime.com/@nichind"><img src="https://wakatime.com/badge/user/018b587d-9291-4cc6-8009-9fe5da9376c0.svg" alt="Total time coded since Oct 22 2023" /></a>
+	<a href="https://discord.gg/kvsbKtPYwa"><img src="https://img.shields.io/discord/992082814524731443?color=3f48cc&label=nichind.dev&logo=discord&logoColor=white.svg"></a>
+<div>
+
+### Projects
+
+[nichind.dev](https://nichind.dev) - My personal website :3 (no frameworks used ^^)<br>
+[pybalt](https://github.com/nichind/pybalt) - cobalt api wrapper for python, also avaliable as a cli tool<br>
+[singbox2proxy](https://github.com/nichind/singbox2proxy) - Use sing-box proxies directly in your python code, also avaliable as a cli tool<br>
+[v2ray2proxy](https://github.com/nichind/v2ray2proxy) - Use v2ray proxies directly in your python code, also avaliable as a cli tool (use singbox2proxy over this)<br>
+[firstmail](https://github.com/nichind/firstmail) - IMAP python client for firstmail.ltd email service, also avaliable as a cli tool<br>
+[streetjs](https://github.com/nichind/streetjs) - "Street View"-like interactive (walkable) 360° panorama viewer for the web.<br>
+[effects](https://github.com/nichind/effects) - Easiest way to add stunning animations to your website.<br>
+and many more at [repositories](https://github.com/nichind?tab=repositories)...<br>
+
+<div align="right">
+
+@ [wao.moe](https://wao.moe) [nichind.dev](https://nichind.dev) [twitter](https://x.com/n1chind) [portfolio](https://t.me/nichindpf) [blog](https://t.me/no_money_baby)
+
 </div>
-
-----
-
-<div align="center" class="skills" style="display: flex; flex-flow: column wrap">
-	<details open>
-	<summary>My skills</summary><br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/><br><br>
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AfterEffects.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Premiere.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Blender-Dark.svg" width="50"/><a>&nbsp;</a> 
-	<br><br>
-	<details>
-	<summary>Frameworks & Other stuff</summary>
-		<br>
-		<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/><br>
-		<img src="https://skillicons.dev/icons?i=nodejs,replit,github"/><br>
-  		<a>And much more...</a>		
-	</details>
-	</details>
-</div>
-
-----
-
-<div align="center" class="contacts" style="display: flex; flex-flow: column wrap;">
-	<details open>
-	<summary>My contacts</summary><br>
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/>
-	<br><br>
- 	<a href="https://discord.gg/GnDz3RYq9y"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
-  	<a href="https://t.me/nichind"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" width="50"/></a>
-   	<br><br>or...<br><br>
-    	<a>✉️ Email: <a href="mailto://contact@nichind.dev">contact@nichind.dev</a></a><br>
-     	<a>👉 Website: <a href="https://nichind.dev">https://nichind.dev</a></a>
-	</details>	
-</div>
-
-----
-
-<div align="center" class="todo" style="display: flex; flex-flow: column">
-<details>
-<summary>My plans</summary><br>
-<div style="flex-direction: column; justify-content: center; align-items: flex-start;"> 
-
-- [x] Ace exams *kinda*
-- [ ] Get 100'000$
-- [ ] Move to ???
-- [ ] Publish game to Steam
-- [ ] Produce a viral dnb track
-- [ ] Learn to draw anime
-- [ ] Get a "real" job (?)
-- [ ] Learn Japanese
-- [ ] Learn Korean
-  
-</div>
-</details>
-</div>
-
-----
-
-<div align="center" class="projects" style="display: flex; flex-flow: column wrap;">
-<details open>
-<summary>My last projects</summary>
-	<br><a>My Portfolio: <a href="https://t.me/nichindpf">https://t.me/nichindpf</a></a><br><br>
-	<a href="https://pypistats.org/packages/v2ray2proxy"><img width="700" alt="image" src="https://github.com/user-attachments/assets/7326aedd-9dc1-4b88-8ba6-ae5640f2e6a9" /></a>
-	<a href="https://github.com/nichind/pybalt"><img width="700" alt="image" src="https://github.com/user-attachments/assets/1539b12e-c58b-48ca-9d41-08893de3370f" /></a>
-</details>
-</div>
-
-----
-
-<div align="center" class="projects" style="display: flex; flex-flow: column wrap;">
-<details open>
-<summary>My discord</summary>
-<br>
-
-[![Discord](https://img.shields.io/discord/992082814524731443?color=3f48cc&label=My+Discord+server&logo=discord&logoColor=white)](https://discord.gg/kvsbKtPYwa)
-<br>
-<div style="display: flex; flex-direction: row;">
-  <a align="center" href="https://discord.com/users/301035790891352076">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/301035790891352076?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true"
-      </a>
-</div>  
-<br>
-
-![playing](https://api.statusbadges.me/badge/playing/301035790891352076) 
-![vscode](https://api.statusbadges.me/badge/vscode/301035790891352076) ![intellij](https://api.statusbadges.me/badge/intellij/301035790891352076)
-
-</details>
-
-----
-
-<div align="center" class="todo" style="display: flex; flex-flow: column">
-<details open>
-<summary>Github</summary><br>
-<table align="center">
-	<tr>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nichind&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" draggable="false">
-		</td>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichind&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
-		</td>
-	</tr>
-</table>
-
-<a href="http://www.github.com/nichind"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nichind&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</details>
-
-readme layout made by <a href="https://github.com/nichind">https://github.com/nichind</a>
