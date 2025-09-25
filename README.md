@@ -9,7 +9,7 @@ I code and design, sometimes it even works<br>
 Started my coding journey at 11 years old<br>
 Fully self-taught, coding daily since 2019<br>
 Native russian, fluent english, know some german and learning japanese<br>
-Currently Computer Science (Program Engineering) student @ [MAI](https://mai.ru)
+Currently Program Engineering student @ [MAI](https://mai.ru)
 
 <div align="left" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/>
@@ -31,6 +31,6 @@ and many more at [repositories](https://github.com/nichind?tab=repositories)...<
 
 <div align="right">
 
-@ [wao.moe](https://wao.moe) [nichind.dev](https://nichind.dev) [twitter](https://x.com/n1chind) [portfolio](https://t.me/nichindpf) [blog](https://t.me/no_money_baby)
+more @ [wao.moe](https://wao.moe) [nichind.dev](https://nichind.dev) [twitter](https://x.com/n1chind) [portfolio](https://t.me/nichindpf) [blog](https://t.me/no_money_baby)
 
 </div>
