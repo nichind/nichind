@@ -1,4 +1,4 @@
-<img align="left" height="600" src="https://nichind.dev/assets/img/home-side.webp">
+<img align="right" height="600" src="https://nichind.dev/assets/img/home-side.webp">
 
 
 <img align="left" height="250" src="https://nichind.dev/assets/img/gridprev.webp" href="https://nichind.dev">
