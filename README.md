@@ -1,9 +1,7 @@
 <img align="left" height="280" src="https://nichind.dev/assets/img/gridprev.webp" href="https://nichind.dev">
-
 <img align="right" height="600" src="https://nichind.dev/assets/img/home-side.webp">
 
-**↖ [nichind.dev](https://nichind.dev)**
-
+**↖ Snippet of [nichind.dev](https://nichind.dev)**<br>
 I code and design, sometimes it even works<br>
 Started my coding journey at 11 years old<br>
 Fully self-taught, coding daily since 2019<br>
