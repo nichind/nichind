@@ -17,7 +17,7 @@ Currently PE student @ [MAI](https://mai.ru)
 
 ### Projects
 
-[nichind.dev](https://nichind.dev) - My personal website :3 (no frameworks used ^^)<br>
+[nichind.dev](https://nichind.dev) - My personal website :3<br>
 [pybalt](https://github.com/nichind/pybalt) - cobalt api wrapper for python, also avaliable as a cli tool<br>
 [singbox2proxy](https://github.com/nichind/singbox2proxy) - Use sing-box proxies directly in your python code, also avaliable as a cli tool<br>
 [v2ray2proxy](https://github.com/nichind/v2ray2proxy) - Use v2ray proxies directly in your python code, also avaliable as a cli tool (use singbox2proxy over this)<br>
