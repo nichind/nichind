@@ -6,7 +6,7 @@ I code and design, sometimes it even works<br>
 Started my coding journey at 11 years old<br>
 Fully self-taught, coding daily since 2019<br>
 Native russian, fluent english, know some german and learning japanese<br>
-Currently PE student @ [MAI](https://mai.ru)
+Currently ... @ ...
 
 <div align="left" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/>
